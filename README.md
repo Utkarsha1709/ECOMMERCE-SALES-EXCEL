@@ -1,5 +1,6 @@
 # ECOMMERCE-SALES-EXCEL
-<img width="1212" height="658" alt="image" src="https://github.com/user-attachments/assets/5775adb7-f6a8-4ffd-a84b-d3b22e303e8f" />
+<img width="1492" height="644" alt="image" src="https://github.com/user-attachments/assets/0ef1daa3-713e-4d41-9673-5e2052532675" />
+
 
 ## Project Overview
 The goal of this project is to analyze and visualize E-commerce sales performance using Microsoft Excel to understand the company’s sales distribution, profit trends, and customer purchasing behavior.
